@@ -4,7 +4,7 @@
 
 Nato per sostituire un'attività manuale ricorrente: invece di ricostruire ogni mese le stesse tabelle pivot e gli stessi grafici a mano, lo script legge l'estratto conto grezzo e produce un foglio di report pulito e pronto da condividere.
 
-![Anteprima del report](assets/report_preview.png)
+![Anteprima del report](assets/report_preview_2.png)
 
 ---
 
